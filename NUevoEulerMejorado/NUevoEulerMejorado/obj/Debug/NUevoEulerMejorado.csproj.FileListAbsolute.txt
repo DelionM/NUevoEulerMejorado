@@ -1,0 +1,27 @@
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.exe.config
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.exe
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.pdb
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.csprojResolveAssemblyReference.cache
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.Form1.resources
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.Properties.Resources.resources
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.csproj.GenerateResource.Cache
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.exe
+c:\users\near_\documents\visual studio 2015\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.pdb
+E:\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.exe.config
+E:\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.exe
+E:\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.pdb
+E:\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.exe
+E:\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.pdb
+E:\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.csprojResolveAssemblyReference.cache
+E:\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.Form1.resources
+E:\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.Properties.Resources.resources
+E:\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.csproj.GenerateResource.Cache
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.exe.config
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.exe
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.exe
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\bin\Debug\NUevoEulerMejorado.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.csprojResolveAssemblyReference.cache
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.Form1.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.Properties.Resources.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\NUevoEulerMejorado\NUevoEulerMejorado\obj\Debug\NUevoEulerMejorado.csproj.GenerateResource.Cache
